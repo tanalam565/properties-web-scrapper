@@ -36,7 +36,6 @@ DEFAULT_URLS = ["https://callowayatlascolinas.com/floorplans/",
     "https://lakeshorevillas-apts.com/floorplans/",
     "https://www.pinesofwoodforest.com/houston/pines-of-woodforest/conventional/",
     "https://www.audubonvillagetampa.com/floorplans/#location",
-    "https://aldersmagnolia.com/floorplans/",
     "https://somersetapthomes.com/floorplans/",
     "https://www.springsapartments.com/apartments/tx/rosenberg/springs-at-summer-park/floor-plans",
     "https://www.brazosranch-apts.com/rosenberg/brazos-ranch/conventional/",
@@ -44,7 +43,6 @@ DEFAULT_URLS = ["https://callowayatlascolinas.com/floorplans/",
     "https://elanmedcenter.com/floorplans/",
     "https://www.mezzomedcenter.com/Floor-plans.aspx?oll_ilm=obl&oll_utm_source=gmb&oll_utm_medium=organic",
     "https://adenineapartments.com/floorplans/",
-    "https://www.avenuesatcypress.com/cypress/avenues-at-cypress/conventional/",
     "https://cortland.com/apartments/cortland-north-haven/available-apartments/",
     "https://www.thearborsofeulessapartments.com/apartments/tx/euless/floor-plans#/",
     "https://www.devonnorthgate.com/irving/devon-on-northgate/conventional/",
@@ -68,11 +66,10 @@ DEFAULT_URLS = ["https://callowayatlascolinas.com/floorplans/",
     "https://cortland.com/apartments/cortland-fossil-creek/available-apartments/",
     "https://www.villasatcypresswood.net/houston/villas-at-cypresswood/conventional/",
     "https://www.oaksproperties.com/apartments/tx/las-colinas/hackberry-creek/floor-plans#/floorplans/1990823257/",
-    "https://www.brookfieldhouston.com/floorplans/#location",
     "https://www.blairatbitters.com/floorplans/#location",
     "https://palmerlascolinas.com/floorplans/",
-    "https://verandaatcenterfield.com/floorplans/"
-    ""
+    "https://verandaatcenterfield.com/floorplans/",
+    "https://www.trailwoodvillageliving.com/kingwood/trailwood-village-apartments/conventional/"
 ]
 
 
@@ -121,9 +118,7 @@ PROPERTY_NAMES = {
     "lakeshorevillas-apts.com": "LAKESHORE VILLAS",
     "broadstonetoscano.com": "BROADSTONE TOSCANO",
     "elanmedcenter.com": "ELAN MED CENTER",
-    "aldersmagnolia.com": "ALDERS MAGNOLIA",
     "adenineapartments.com": "ADENINE APARTMENT HOMES",
-    "avenuesatcypress.com": "AVENUES AT CYPRESS",
     "brazosranch-apts.com": "BRAZOS RANCH APARTMENT HOMES",
     "thearborsofeulessapartments.com": "THE ARBORS",
     "devonnorthgate.com": "DEVON NORTHGATE",
@@ -149,8 +144,8 @@ PROPERTY_NAMES = {
     "oaksproperties.com": "OAKS HACKBERRY CREEK",
     "myaltamonte.com": "ALTAMONTE",
     "theayvaapts.com": "THE AYVA",
-    "brookfieldhouston.com": "BROOKFIELD HOUSTON",
     "blairatbitters.com": "BLAIR AT BITTERS",
     "palmerlascolinas.com": "PALMER LAS COLINAS",
-    "verandaatcenterfield.com": "VERANDA AT CENTERFIELD"
+    "verandaatcenterfield.com": "VERANDA AT CENTERFIELD",
+    "www.trailwoodvillageliving.com": "TRAILWOOD VILLAGE APARTMENTS"
 }
